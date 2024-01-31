@@ -1,0 +1,40 @@
+{
+    "employee1": {
+        "name": "John",
+        "age": 30,
+        "car": null,
+        "languages": [
+            "java",
+            "c++",
+            "python"
+        ],
+        "name": "John",
+        "age": 50,
+        "car": null,
+        "languages": [
+            "java",
+            "c++",
+            "python"
+        ]
+    },
+    "employee2": {
+        "name1": "John",
+        "age1": 40,
+        "car1": null,
+        "languages1": [
+            "java",
+            "c++",
+            "python"
+        ]
+    },
+    "employee3": {
+        "name3": "John",
+        "age3": 50,
+        "car3": null,
+        "languages3": [
+            "java",
+            "c++",
+            "python"
+        ]
+    }
+}
